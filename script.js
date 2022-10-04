@@ -1,1 +1,2 @@
-document.body.innerHTML = "hlHello from javaScript"
+document.body.innerHTML = "hlHello from javaScript</hl>"
+console.log('Test 2')
